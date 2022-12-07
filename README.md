@@ -1,6 +1,6 @@
 # CS-210
 
-Summarize the project and what problem it was solving:
+About the Project:
 
 This project read an input file which contained a list of items purchased from a grocery store. It then, through integrating both Python and C++ languages, displayed a menu from which the user could select an option, 1, 2, 3, or 4. Option 1 displayed the frequency of the number of times each item in the grocery list occurred. Option 2 displayed the frequency of the number of times a specific item in the grocery list occurred. Option 3 displayed a histogram based on the frequency of the number of times each grocery item occurred. And option 4 let the user exit the program. The problem it was solving was to parse through an input file and the calculate and display the frequency of each grocery item in said input file.
 
